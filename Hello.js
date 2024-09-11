@@ -1,3 +1,1 @@
-const x = " first app";
-
-console.log(x);
+console.log ("this is mervelous")
